@@ -30,4 +30,6 @@ Some text goes *here* not **here**
 
 #### Heading 4
 
+[Kansas City University](www.kansascity.edu)
+
 ###### Arbitrary? Header
