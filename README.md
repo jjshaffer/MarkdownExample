@@ -11,6 +11,23 @@ Some text goes *here* not **here**
 
 ### Heading 3
 
+* apples
+* oranges
+* bananas
+* strawberries
+* pineapple
+
++ brocolli
++ carrots
++ celery
++ zucchini
+
+- salsa
+- queso
+- bbq
+- ketchup
+- tabasco
+
 #### Heading 4
 
 ###### Arbitrary? Header
